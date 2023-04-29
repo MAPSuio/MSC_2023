@@ -4,4 +4,4 @@ Han har imidlertid fått jernteppe! Det er ett regnestykke igjen som han bare ik
 
 Hjelp han med å finne summen før FU skjønner hva som skjer!
 
-![Input](./input) består av X linjer, der hver linje er neste tall som skal plusses sammen. 
+[Input](./input) består av X linjer, der hver linje er neste tall som skal plusses sammen. 
