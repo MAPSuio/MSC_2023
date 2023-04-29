@@ -1,1 +1,1 @@
-2m2a2p2s s7p7r7i7n7g cha2lenge
+2m2a2p2ss7p7r7i7n7gcha2lenge
