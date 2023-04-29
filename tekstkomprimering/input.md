@@ -1,1 +1,1 @@
-PASTE RAW INPUT HERE
+mmaappss sppppppprrrrrrriiiiiiinnnnnnnggggggg challenge
